@@ -1,17 +1,5 @@
 {
-  "name": "evershop_local-host",
-  "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "setup": "evershop install",
-    "build": "evershop build",
-    "start": "evershop start"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@evershop/evershop": "^1.1.0"
+    "build": "[my-framework] build --output public"
   }
 }
